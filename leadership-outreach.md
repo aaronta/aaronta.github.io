@@ -10,7 +10,7 @@ permalink: /leadership-outreach/
 
 ### The Hacker Within -- Illinois Chapter (THW-IL)
 
-President -- [The Hacker Within-IL](/leadership-outreach/thw/)
+President & Chapter Founder -- [The Hacker Within-IL](/leadership-outreach/thw/)
 
 ## Outreach
 
@@ -18,4 +18,5 @@ President -- [The Hacker Within-IL](/leadership-outreach/thw/)
 
 Counselor for MechSE's girls' GAMES camp (GBAM)
 
-[GBAM 2015](https://mechanical.illinois.edu/news/gbam-campers-gain-awesome-experience-hands-fun)
+[2016 GBAM](http://www.istem.illinois.edu/news/games.gbam.16.html)
+[2015 GBAM](https://mechanical.illinois.edu/news/gbam-campers-gain-awesome-experience-hands-fun)

@@ -4,5 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-### Coming soon...
+[PDF download](/cv/cv.pdf)
 
+[(source code)](https://github.com/aaronta/CV)
