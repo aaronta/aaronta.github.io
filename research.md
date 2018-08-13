@@ -8,26 +8,29 @@ permalink: /research/
 
 ## Magnetic Resonance Elastography (MRE)
 
-Magnetic Resonance Elastography (MRE) is a non-invasive quantitative imaging technique that measures the viscoelastic tissue stiffness. Development of MRE at the Beckman Institue at the U of I focuses on characterizing tissue across healthy populations and from changes due to neurodegenerative diseases.
+Magnetic Resonance Elastography (MRE) is a non-invasive quantitative imaging technique that measures the viscoelastic tissue stiffness. Development of MRE at the Beckman Institue focuses on characterizing tissue across healthy populations and from changes due to neurodegenerative diseases. At Carle Foundation Hospital, MRE is being applied to clinical populations where it may be able to improve diagnosis towards improved patient outcomes.
 
 
 ### Advisors
 
-- [Dr. John G. Georgiadis][jgg] -- IIT
-- [Dr. Elijah E.W. Van Houten][evh] -- U. of Sherbrooke
+- [Dr. Bradley P. Sutton][bps] -- U. of Illinois
+- [Dr. Graham R. Huesmann, MD/PhD][grh] -- Carle Foundation Hospital
 
 ### Collaborators
 
-- [Dr. Bradley P. Sutton][bps] -- U. of Illinois
+- [Dr. Tracey M. Wszalek][tmw] -- Biomedical Imaging Center-Beckman Institute
+- [Dr. Elijah E.W. Van Houten][evh] -- U. of Sherbrooke
 - [Dr. Curtis L. Johnson][clj] -- U. of Delaware 
-- Dr. Keith D. Paulsen -- Dartmouth College
-- Dr. Tracey M. Wszalek -- Biomedical Imaging Center-Beckman Institute
-- [Dr. Matthew D.J. McGarry][mmg] -- Columbia University
+- [Dr. Matthew D.J. McGarry][mmg] -- Dartmouth College
+- [Dr. Keith D. Paulsen][kdp] -- Dartmouth College
+- [Dr. John G. Georgiadis][jgg] -- IIT
 
 
-[jgg]: https://engineering.iit.edu/faculty/john-georgiadis
-[evh]: https://www.usherbrooke.ca/gmecanique/departement/corps-professoral/elijah-van-houten/
 [bps]: http://mrfil.bioen.illinois.edu/
+[grh]: https://carle.org/providers/details?ID=1447
+[tmw]: https://beckman.illinois.edu/directory/person/traceyws
+[evh]: https://www.usherbrooke.ca/gmecanique/departement/corps-professoral/elijah-van-houten/
 [clj]: http://www.bme.udel.edu/curtis-johnson/
-
-[mmg]: http://orion.bme.columbia.edu/ueil/person.php?id=mdm2206
+[mmg]: https://engineering.dartmouth.edu/people/faculty/matthew-mcgarry
+[kdp]: https://engineering.dartmouth.edu/people/faculty/keith-paulsen
+[jgg]: https://engineering.iit.edu/faculty/john-georgiadis

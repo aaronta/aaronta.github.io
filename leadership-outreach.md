@@ -10,7 +10,7 @@ permalink: /leadership-outreach/
 
 ### The Hacker Within -- Illinois Chapter (THW-IL)
 
-President & Chapter Founder -- [The Hacker Within-IL](/leadership-outreach/thw/)
+Advisor -- first president & chapter founder -- [The Hacker Within-IL](/leadership-outreach/thw/)
 
 ## Outreach
 

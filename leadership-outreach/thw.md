@@ -8,7 +8,7 @@ permalink: /leadership-outreach/thw/
 
 ## The Hacker Within -- Illinois Chapter (THW-IL)
 
-I am the founder of the Illinois chapter of THW and current president.
+I am the founder of the Illinois chapter of THW and first president. Currently, I am an advisor to the group to help it continue to thrive.
 
 For background on THW, here is the 'Why' section:
 

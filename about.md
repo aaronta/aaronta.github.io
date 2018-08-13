@@ -6,9 +6,8 @@ permalink: /about/
 
 {% include image.html url="/images/BIC_profile_41_web.jpg" caption="Beckman Imaging Center" width=300 align="right" %}
 
-I am a PhD candidate in the [MechSE Department][mechse] at the [University of Illinois][uofi]. My thesis work is under the guidance of [Dr. John Georgiadis][jgg] and [Dr. Elijah Van Houten][evh].
+I am a [Carle Foundation Hospital][carle]-[Beckman Institute][beckman] Postdoctoral Fellow at the [University of Illinois][uofi]. My research focuses on improving the material estimation of magnetic resonance elastograhy (MRE) and its applications to basic and clinical human brain research.
 
-[mechse]: http://mechanical.illinois.edu/
+[carle]: https://carle.org/
+[beckman]: https://beckman.illinois.edu/
 [uofi]: http://illinois.edu/
-[jgg]: https://engineering.iit.edu/faculty/john-georgiadis
-[evh]: https://www.usherbrooke.ca/gmecanique/departement/corps-professoral/elijah-van-houten/
