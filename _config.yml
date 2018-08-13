@@ -2,8 +2,8 @@
 title: Aaron T. Anderson
 email: aandrsn3@illinois.edu
 description: > # this means to ignore newlines until "baseurl:"
- Department of Mechanical Science & Engineering
  Beckman Institute for Advanced Science and Technology
+ Carle Foundation Hospital
  Urbana, IL 61801
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://aaronta.github.io" # the base hostname & protocol for your site
