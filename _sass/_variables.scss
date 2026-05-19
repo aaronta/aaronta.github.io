@@ -1,0 +1,43 @@
+// Site variables and shared mixins
+
+@use "sass:color";
+
+$base-font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+$heading-font-family: 'Montserrat', 'Source Sans Pro', Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #FF5F05; // Illini Orange
+// Primary brand colors (Illinois)
+$illini-orange:     #FF5F05;
+$illini-blue:       #13294B;
+// Accessibility alternate orange
+$altgeld-orange:    #C84113;
+// Backwards-compatible names used by site
+$clemson-purple:    $illini-blue;
+$clemson-orange:    $illini-orange;
+
+
+$grey-color:       #828282;
+$grey-color-light: color.adjust($grey-color, $lightness: 40%);
+$grey-color-dark:  color.adjust($grey-color, $lightness: -25%);
+
+
+// Width of the content area
+$content-width:    950px;
+
+$on-palm:          600px;
+$on-laptop:        950px;
+
+
+// Media query mixin
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}

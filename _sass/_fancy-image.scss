@@ -1,3 +1,4 @@
+@use "variables" as *;
 .wp-caption {
 background-color: #f3f3f3;
 text-align: center;
@@ -5,7 +6,7 @@ border: 1px dotted $clemson-purple;
 	font-size: 0.90em;
 	overflow: hidden;
 	position: relative;
-
+    
 }
 
 .wp-caption dd {
